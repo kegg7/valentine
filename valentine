@@ -4,8 +4,10 @@
 
 <head>
   <title> My Corgi Valentine </title>
+<style>
 h1 {text-align: center;}
 h2 {text-align: center;}
+</style>
 </head>
 <body style="background-color:#fed5cc;">
   <main>
