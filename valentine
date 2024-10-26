@@ -8,6 +8,7 @@
 h1 {text-align: center;}
 h2 {text-align: center;}
 h4 {text-align: center;}
+h5 {text-align: center;}
 p {text-align: center;}
 li {text-align: center;}
 img {
@@ -30,3 +31,12 @@ img {
 
 
 <p> She loves to run around and hang outside. If you have time and energy, feel free to chill with her in the grass on her long leash :) </p>
+
+<h5> Potty Schedule </h5>
+<p> Valentine typically loves to go outside multiple times a day :) I make the walks roughly 15 mins so she has time to do her business, but its fine to bring her in sooner if she seems like shes good! </p>
+<p> I typically bring her outside every 3 ish hours, so: </p>
+<li> 9am</li>
+<li>noon</li>
+<li>3pm</li> 
+<li>6pm</li>
+</li>9/before bed/after dinner. shes pretty flexible!</li>
