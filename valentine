@@ -5,7 +5,7 @@
 <head>
   <title> My Corgi Valentine </title>
 <style>
-h1 {font size:"10" text-align: center;}
+h1 {text-align: center;}
 h2 {text-align: center;}
 h4 {text-align: center;}
 h5 {text-align: center;}
